@@ -12,3 +12,5 @@
 - Router
 - Styled Components
 - Lightweight Charts
+
+<img src="./coin-app/screenshot/ss.PNG">
