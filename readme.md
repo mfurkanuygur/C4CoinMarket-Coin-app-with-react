@@ -10,6 +10,7 @@
 ## Kullanılan teknolojiler
 - React
 - Router
+- Context
 - Styled Components
 - Lightweight Charts
 
